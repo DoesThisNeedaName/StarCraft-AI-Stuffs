@@ -1,5 +1,5 @@
 # StarCraft AI Stuffs
--> This repo is for all things related to the AI projects within StarCraft
+-> This repo is for all things related to the StarCraft AI project(s)
 
 Formatting tools:
 ```
